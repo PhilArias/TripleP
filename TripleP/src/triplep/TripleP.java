@@ -7,6 +7,8 @@ package triplep;
 /**
  *
  * @author felip
+ * @author lFranZixXl
+ * 
  */
 public class TripleP {
 
