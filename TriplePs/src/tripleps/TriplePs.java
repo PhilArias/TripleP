@@ -15,7 +15,7 @@ public class TriplePs {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //holapiros
+        //holapirosxzxzxz
     }
     
 }
