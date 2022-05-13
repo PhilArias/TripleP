@@ -15,7 +15,7 @@ public class TriplePp {
      */
     public static void main(String[] args) {
         // TODO code applica
-        //edicion 1
+        //Version 15    
     }
     
 }
