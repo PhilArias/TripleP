@@ -14,7 +14,8 @@ public class TriplePp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic herewewe
+        // TODO code applica
+        //edicion 1
     }
     
 }

@@ -15,10 +15,7 @@ public class TripleP {
      */
     public static void main(String[] args) {
         
-        //UwU
-        //Modificación #67
-        // xD
-        //fff
+        //Edicion 2
         
         
     }
