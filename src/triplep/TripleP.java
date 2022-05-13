@@ -17,7 +17,7 @@ public class TripleP {
         
         //UwU
         //Modificación #67
-        //No me joda Felipe, qué fastidio :v
+        //No me joda Felipe, qué fastidio :v xD
         
         
     }
