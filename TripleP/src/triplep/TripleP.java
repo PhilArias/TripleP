@@ -18,7 +18,8 @@ public class TripleP {
     public static void main(String[] args) {
         // TODO code application logic here
         //cambiandozeeeeeeeexzxzcxzcxx<zxzxdsdsddszxxzxzzxxzxzz
-        //fddd
+        //fdddddddddd
+        //uuu
     }
     
 }
